@@ -4,11 +4,6 @@
 React capstone project from cuvette react module, intialized with vite.
 
 
-## Demo
-
-https://super-app-2a3e0.web.app/
-
-
 ## Screenshots
 
 ![Login Screen](./public/signup.png)
